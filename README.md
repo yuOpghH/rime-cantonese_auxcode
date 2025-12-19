@@ -1,4 +1,4 @@
-# rime-cantonsese_auxcode
+# rime-cantonese_auxcode
 使用倉頡/速成/標準兩分/改版兩分對RIME粵拼方案的外掛axu_code的lua的簡易部署方案。 Simple Deployment Guide for axu_code Lua Plugin with Cangjie/Sukeng/Standard Two-Part/Revised Two-Part Input Methods for RIME Cantonese Pinyin Scheme  cantonese / 廣東話 / 廣東話 / 粵語 / 粤语 / 粵拼 / 粤拼
 
 ## 0.簡述
@@ -16,8 +16,8 @@
 
 ## 3. 使用圖
 <p align="center">
-<img src="https://github.com/yuOpghH/rime-cantonsese_auxcode/blob/main/%E6%87%89%E7%94%A8%E5%9C%96/test1.png"/>
-<img src="https://github.com/yuOpghH/rime-cantonsese_auxcode/blob/main/%E6%87%89%E7%94%A8%E5%9C%96/test2.png"/>
+<img src="https://github.com/yuOpghH/rime-cantonese_auxcode/blob/main/%E6%87%89%E7%94%A8%E5%9C%96/test1.png"/>
+<img src="https://github.com/yuOpghH/rime-cantonese_auxcode/blob/main/%E6%87%89%E7%94%A8%E5%9C%96/test2.png"/>
 </p>
 
 ----
