@@ -26,7 +26,7 @@
  - 組詞亦可篩選，但僅限尾字
  - 修改觸發鍵及自定義輔助碼方案等等問題，請參考原方案問答 [Rime輸入法輔助碼與音形分離插件](https://github.com/HowcanoeWang/rime-lua-aux-code)
  - 兩分是何物？例：蒜 = 艹 (cou2) + 示 (si6) `蒜 = s + yun + ;（觸發鍵） + c (艹cou2) + s(示si6) = syun;cs` 。參考[字海網首頁：兩分部首拆解查詢](http://www.yedict.com/)
- - 關於改版兩分輔助碼的鍵位表，參考 [新定兩分碼表](https://github.com/yuOpghH/rime-jyutsp-loengfan)
+ - 關於改版兩分輔助碼的鍵位表，參考 [新定兩分碼表](https://github.com/yuOpghH/rime-jyutsp-loengfan#1-粵語雙拼新定兩分碼表)
 
 ## 4. 致謝
 - 感謝以下項目的無私貢獻及項目成果。可能有遺漏敬請原諒。
