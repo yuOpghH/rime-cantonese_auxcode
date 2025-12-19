@@ -21,7 +21,7 @@
 </p>
 
 ----
-
+ - lua預設觸發鍵為`;`鍵，請確保該鍵不被其他“次選輸出”等功能覆蓋。
  - 組詞亦可篩選，但僅限尾字
  - 修改觸發鍵及自定義輔助碼方案等等問題，請參考原方案問答 [Rime輸入法輔助碼與音形分離插件](https://github.com/HowcanoeWang/rime-lua-aux-code)
  - 兩分是何物？例：蒜 = 艹 (cou2) + 示 (si6) `蒜 = s + yun + ;（觸發鍵） + c (艹cou2) + s(示si6) = syun;cs` 。參考[字海網首頁：兩分部首拆解查詢](http://www.yedict.com/)
