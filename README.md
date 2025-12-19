@@ -18,6 +18,7 @@
 <p align="center">
 <img src="https://github.com/yuOpghH/rime-cantonese_auxcode/blob/main/%E6%87%89%E7%94%A8%E5%9C%96/test1.png"/>
 <img src="https://github.com/yuOpghH/rime-cantonese_auxcode/blob/main/%E6%87%89%E7%94%A8%E5%9C%96/test2.png"/>
+<img src="https://github.com/yuOpghH/rime-cantonese_auxcode/blob/main/%E6%87%89%E7%94%A8%E5%9C%96/test3.png"/>
 </p>
 
 ----
